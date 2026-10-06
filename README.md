@@ -32,7 +32,7 @@ at the bottom, but do whatever works for you just make sure you are stretching a
 * [Cool Down](#cool-down)
 
 ### Week 1
-- [ ] Day 1 | [Strides](#strides)
+- [x] Day 1 | [Strides](#strides)
 - [ ] Day 2 | [Legs](#leg-workout)
 - [ ] Day 3 | [Interval run](#interval-run)
 - [ ] Day 4 | Rest
