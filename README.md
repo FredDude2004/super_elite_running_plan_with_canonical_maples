@@ -1,29 +1,6 @@
 # Super Elite Plan
 
-So we'll break this into 3-4 runs a week and a leg workout once a week as well.
-The runs will serve different purposes and I break em down here for you (and me).
-Race is on Thanksgiving day so we'll officially start the plan next week giving us
-eight weeks to train. The goal is to run a 24 minute 5k time averaging around an 8:00min
-mile.
-
-I be seeing them white runner soy boys on the internet throwing words like tempo
-and strides around like the macha sippin rainbow flag reppers they are and they act all
-important and like they're better than you because they can run and it lowkey peeves me.
-
-But they also prolly know what they talking about so I'm following what they say and shii
-but I broke it down and linked it at the bottom of the page so that you can easily figure
-it out and shii.
-
-Remember that 8:00 min mile time, this is our target time and what we will be structuring
-our different workouts around. I made the workouts the same every single time that way its
-easy to memorize and you can start to get into a rhythm easier. Also, when we do it this way
-the progression will mainly be in your pace not in the amount of time spent running. But feel
-free to switch up distances or time running in the workouts using your recovery level and
-what you feel would be best.
-
-Every workout will start with a warmup and end with a cool down. I'll list what I'll be doing
-at the bottom, but do whatever works for you just make sure you are stretching and shii.
-
+* [Summary](#summary)
 * [Interval Run](#interval-run)
 * [Tempo Run](#tempo-run)
 * [Leng Run](#long-run)
@@ -170,3 +147,28 @@ using carbohydrates.
 * 30sec Front quad stretch
 * 15    Calf raises into anterior tibialis raise
 
+## Summary
+
+So we'll break this into 3-4 runs a week and a leg workout once a week as well.
+The runs will serve different purposes and I break em down here for you (and me).
+Race is on Thanksgiving day so we'll officially start the plan next week giving us
+eight weeks to train. The goal is to run a 24 minute 5k time averaging around an 8:00min
+mile.
+
+I be seeing them white runner soy boys on the internet throwing words like tempo
+and strides around like the macha sippin rainbow flag reppers they are and they act all
+important and like they're better than you because they can run and it lowkey peeves me.
+
+But they also prolly know what they talking about so I'm following what they say and shii
+but I broke it down and linked it at the bottom of the page so that you can easily figure
+it out and shii.
+
+Remember that 8:00 min mile time, this is our target time and what we will be structuring
+our different workouts around. I made the workouts the same every single time that way its
+easy to memorize and you can start to get into a rhythm easier. Also, when we do it this way
+the progression will mainly be in your pace not in the amount of time spent running. But feel
+free to switch up distances or time running in the workouts using your recovery level and
+what you feel would be best.
+
+Every workout will start with a warmup and end with a cool down. I'll list what I'll be doing
+at the bottom, but do whatever works for you just make sure you are stretching and shii.
