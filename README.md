@@ -11,8 +11,8 @@
 ### Week 1
 - [x] Day 1 | [Strides](#strides)
 - [x] Day 2 | [Legs](#leg-workout)
-- [ ] Day 3 | [Interval run](#interval-run)
-- [ ] Day 4 | Rest
+- [x] Day 3 | [Interval run](#interval-run)
+- [x] Day 4 | Rest
 - [ ] Day 5 | [Tempo run](#tempo-run)
 - [ ] Day 6 | Rest
 - [ ] Day 7 | [Long run](#stides)
